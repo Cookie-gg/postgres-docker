@@ -10,6 +10,7 @@ vim .env
 
 POSTGRES_USER="<username>"
 POSTGRES_PASSWORD="<password>"
+POSTGRES_DB="<db name>"
 ```
 
 - run a container
